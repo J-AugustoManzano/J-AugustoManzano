@@ -2,7 +2,7 @@
 ##
 <p align="center">
   <img height="210px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&layout=compact&langs_count=40&hide=Rich Text Format,HTML,CSS,MATLAB&theme=merko"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&layout=compact&langs_count=10&hide=Rich Text Format,HTML,CSS,MATLAB&theme=merko"
   />
   &nbsp;
   <img height="150px" 
