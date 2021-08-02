@@ -14,7 +14,7 @@
 <div>
   <a href="https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano" 
      target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" 
-     target="_blank"> rel="noopener noreferrer"
+     target="_blank" rel="noopener noreferrer">
   </a>
 </div>
 
