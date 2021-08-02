@@ -1,4 +1,4 @@
-### Minhas estatísticas
+### Estatísticas
 ##
 <p align="center">
   <img height="210px" 
