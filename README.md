@@ -1,4 +1,5 @@
 ### Minhas estatísticas
+
 ##
 <p align="center">
   <img height="210px" 
@@ -9,6 +10,7 @@
     src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=merko"
   />
 </p>
+
 ##
 <div>
   <a href="https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano" 
