@@ -15,6 +15,3 @@
    target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" 
    target="_blank">
 </a>
-
-![Snake animation](https://github.com/J-AugustoManzano/J-AugustoManzano/blob/output/github-contribution-grid-snake.svg)
-
