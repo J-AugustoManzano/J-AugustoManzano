@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano)
 ##
 ### Estatísticas
 <p align="center">
