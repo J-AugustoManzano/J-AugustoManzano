@@ -1,21 +1,21 @@
 <a href="https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano" 
-   target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge" 
+   target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=plastic" 
    target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/augustomanzano/" 
-   target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"    
+   target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic"    
    target="_blank">
 </a>
 <a href="https://sourceforge.net/u/augustomanzano/profile" 
-   target="_blank"><img src="https://img.shields.io/badge/SourceForge-orange?style=for-the-badge" 
+   target="_blank"><img src="https://img.shields.io/badge/SourceForge-orange?style=plastic" 
    target="_blank">
 </a>
 <a href="https://www.researchgate.net/profile/Jose-Augusto-Manzano" 
-   target="_blank"><img src="https://img.shields.io/badge/ResearchGate-brigthgreen?style=for-the-badge" 
+   target="_blank"><img src="https://img.shields.io/badge/ResearchGate-brigthgreen?style=plastic" 
    target="_blank">
 </a>
 <a href="https://orcid.org/0000-0001-9248-7765" 
-   target="_blank"><img src="https://img.shields.io/badge/ORCID-yellow?style=for-the-badge" 
+   target="_blank"><img src="https://img.shields.io/badge/ORCID-yellow?style=plastic" 
    target="_blank">
 </a>
 
