@@ -15,7 +15,7 @@
    target="_blank">
 </a>
 <a href="https://orcid.org/0000-0001-9248-7765" 
-   target="_blank"><img src="https://img.shields.io/badge/ORCID-yellow" 
+   target="_blank"><img src="https://img.shields.io/badge/ORCID-yellow?style=for-the-badge" 
    target="_blank">
 </a>
 
