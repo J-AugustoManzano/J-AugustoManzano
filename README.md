@@ -6,6 +6,10 @@
    target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
    target="_blank">
 </a>
+<a href="https://sourceforge.net/u/augustomanzano/profile" 
+   target="_blank"><img src="https://img.shields.io/badge/SourceForge-orange" 
+   target="_blank">
+</a>
 
 ### Linguagens de programação que conheço (algumas)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
