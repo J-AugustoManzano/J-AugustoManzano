@@ -8,7 +8,10 @@
   <img height="150px" 
     src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=merko"
   />
+</p>
 
+##
+<p align="center">
   <a href="https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano" 
      target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" 
      target="_blank">
