@@ -6,6 +6,7 @@
    target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
    target="_blank">
 </a>
+
 ##
 ### Linguagens de programação que conheço (algumas)
 <i>Linguagens imperativas</i>
@@ -37,6 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
 ##
 ### Estatísticas gerais
 <p align="center">
@@ -47,6 +49,6 @@
     src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=merko"
   />
 </p>
-##
 
+##
 ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano)
