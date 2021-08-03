@@ -62,4 +62,4 @@
 </p>
 
 ##
-![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano)
