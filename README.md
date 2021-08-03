@@ -7,7 +7,6 @@
    target="_blank">
 </a>
 
-##
 ### Linguagens de programação que conheço (algumas)
 <i>Linguagens imperativas</i>
 <br /><br />
