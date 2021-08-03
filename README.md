@@ -9,6 +9,7 @@
 
 ##
 ### Linguagens de programação que conheço (algumas)
+
 <i>Linguagens imperativas</i>
 <br /><br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -41,6 +42,7 @@
 
 ##
 ### Estatísticas gerais
+
 <p align="center">
   <img height="210px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&layout=compact&langs_count=10&hide=Rich Text Format,HTML,CSS,MATLAB&theme=merko"
