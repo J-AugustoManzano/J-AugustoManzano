@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano" 
-   target="_blank"><img src="https://img.shields.io/badge/YouTube-red" 
+   target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=appveyor" 
    target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/augustomanzano/" 
