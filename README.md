@@ -18,7 +18,7 @@
    target="_blank"><img src="https://img.shields.io/badge/ORCID-yellow?style=plastic" 
    target="_blank">
 </a>
-<a href="https://orcid.org/0000-0001-9248-7765" 
+<a href="http://lattes.cnpq.br/8184615061457853" 
    target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=plastic" 
    target="_blank">
 </a>
