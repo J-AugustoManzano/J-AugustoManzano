@@ -24,8 +24,7 @@
 </a>
 
 ### Linguagens de programação e ferramentas que conheço
-<code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-B-lg-icon.png" title="Classic BASIC"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/326/PNG/256/Letter_B_blue_35053.png" title="Structured BASIC"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/326/PNG/256/Letter_B_blue_35053.png" title="BASIC Classic/Structured"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
 <code><img height="20" src="https://i.dlpng.com/static/png/7202338_preview.png" title="COBOL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
