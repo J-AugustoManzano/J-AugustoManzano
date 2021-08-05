@@ -47,7 +47,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" title="Elixir"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" title="F#"></code>
-<code><img height="18" src="https://www.pngfind.com/pngs/m/213-2138387_file-groovy-logo-svg-groovy-language-logo-hd.png" title="Groovy"></code>
+<code><img height="20" src="https://www.pngfind.com/pngs/m/213-2138387_file-groovy-logo-svg-groovy-language-logo-hd.png" title="Groovy"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" title="Haskell"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" title="Julia"></code>
 <code><img height="20" src="https://static.thenounproject.com/png/2927373-200.png" title="Hope"></code>
