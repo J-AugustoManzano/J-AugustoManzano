@@ -75,3 +75,10 @@
 ##
  ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
  
+##
+<code><img height="20" src="https://www.logolynx.com/images/logolynx/2a/2ab4daf7454eef5b0f564a00ed616a7d.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/angular-2038881-1720094.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png"></code>
+<code><img height="20" src="https://processing.org/img/processing3-logo.png"></code>
+<code><img height="20" src="https://img.stackshare.io/service/5601/keras.png"></code>
