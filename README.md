@@ -49,6 +49,7 @@
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/365/PNG/256/turtle-icon_36958.png" title="Logo"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" title="Lua"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png" title="LispC"></code>
+<code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-M-red-icon.png" title="Miranda"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" title="Ocaml"></code>
 <i>Declarativas</i>
 
