@@ -53,6 +53,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png" title="LispC"></code>
 <code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-M-red-icon.png" title="Miranda"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" title="Ocaml"></code>
+<code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-S-gold-icon.png" title="Standard ML"></code>
 <i>Declarativas</i>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" title="ASP.NET"></code>
