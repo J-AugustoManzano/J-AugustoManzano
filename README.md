@@ -75,3 +75,5 @@
 ##
  ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
  
+##
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/angular-2038881-1720094.png"></code> <!–– Angular ––>
