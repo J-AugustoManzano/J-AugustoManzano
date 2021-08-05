@@ -31,6 +31,7 @@
 <code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-C-pink-icon.png" title="COMAL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" title="C#"></code>
+<code><img height="20" src="https://www.logo.wine/a/logo/D_(programming_language)/D_(programming_language)-Logo.wine.svg" title="D"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_fortran_icon_130596.png" title="FORTRAN 77/90"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
