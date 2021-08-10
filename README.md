@@ -63,7 +63,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML/XHTML"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jsp_icon_130498.png" title="Java JSP"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
-<i>Web (estática / dinâmicas</i>
+<i>Web (estática / dinâmicas)</i>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
