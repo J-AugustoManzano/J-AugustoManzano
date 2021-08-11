@@ -79,6 +79,7 @@
 <i>Sistemas operacionais</i>
 
 <code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/p_dg.png" title="Portugol IDE"></code>
+<code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/p_violet.png" title="Portugol Online"></code>
 <code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/v_orange.png" title="VisuAlg"></code>
 <i>Interpretadores de algoritmos</i>
 
