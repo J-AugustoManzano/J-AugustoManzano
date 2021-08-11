@@ -78,6 +78,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" title="Windows"></code>
 <i>Sistemas operacionais</i>
 
+<code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/v_orange.png" title="VisuAlg"></code>
+<i>Interpretadores de algoritmos</i>
+
 ##
 ### Estatísticas gerais
 
