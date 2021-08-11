@@ -78,6 +78,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" title="Windows"></code>
 <i>Sistemas operacionais</i>
 
+<code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/g_gold.png" title="G-Portugol"></code>
 <code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/p_dg.png" title="Portugol IDE"></code>
 <code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/p_violet.png" title="Portugol Online"></code>
 <code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/p_black.png" title="Portugol Studio"></code>
