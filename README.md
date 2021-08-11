@@ -23,7 +23,7 @@
    target="_blank">
 </a>
 
-### Linguagens de programação e ferramentas que conheço
+### Linguagens de programação e ferramentas
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/1088/1088504.png" title="Assembly (Intel/AMD)"></code>
 <code><img height="20" src="https://www.pngjoy.com/pngl/67/1465582_typing-ada-programming-language-logo-transparent-png.png" title="Ada"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/326/PNG/256/Letter_B_blue_35053.png" title="BASIC Classic/Structured"></code>
@@ -78,6 +78,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" title="Windows"></code>
 <i>Sistemas operacionais</i>
 
+<code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/p_dg.png" title="Portugol IDE"></code>
 <code><img height="20" src="https://files.softicons.com/download/web-icons/alphabet-icons-by-supratim-nayak/png/256/v_orange.png" title="VisuAlg"></code>
 <i>Interpretadores de algoritmos</i>
 
