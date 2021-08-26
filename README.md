@@ -87,7 +87,7 @@
 <i>Interpretadores de algoritmos</i>
 
 ##
-### Estatísticas gerais
+### Estatísticas gerais 
 
 <p align="center">
   <img height="210px" 
