@@ -23,7 +23,7 @@
    target="_blank">
 </a>
 
-### Linguagens de programação e outras ferramentas
+### Linguagens de programação e outras ferramentas 
 <code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-A-blue-icon.png" title="Assembly (Intel/AMD)"></code>
 <code><img height="20" src="https://www.pngjoy.com/pngl/67/1465582_typing-ada-programming-language-logo-transparent-png.png" title="Ada"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/326/PNG/256/Letter_B_blue_35053.png" title="BASIC Classic/Structured"></code>
