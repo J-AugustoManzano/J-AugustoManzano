@@ -94,7 +94,7 @@
     src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&&amp;layout=compact&amp;langs_count=7&amp;theme=merko" style="max-width: 100%;"
   />
   <img height="150px" 
-    src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&count_private=true&show_icons=true&hide=contribs&locale=pt,prs,issues&theme=merko"
+    src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&count_private=true&show_icons=true&hide=contribs&,prs,issues&theme=merko"
   />
 </p>
 
