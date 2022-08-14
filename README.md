@@ -91,7 +91,7 @@
 
 <p align="center">
   <img height="210px" 
-    src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&layout=compact&langs_count=10&hide=Rich Text Format,HTML,CSS,issues&theme=merko"
+    src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"
   />
   <img height="150px" 
     src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=merko"
