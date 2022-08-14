@@ -100,4 +100,4 @@
 
 ##
 ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
-![Snake animation](https://github.com/J-AugustoManzano/J-AugustoManzano/blob/output/github-contribution-grid-snake.svg)
+
