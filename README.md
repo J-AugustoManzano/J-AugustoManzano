@@ -91,7 +91,7 @@
 
 <p align="center">
   <img height="210px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&amp;layout=compact&amp;langs_count=20&amp;theme=merko"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&amp;layout=compact&amp;langs_count=10&amp;theme=merko;&hide=richtextformat"
 " style="max-width: 100%;"
   />
   <img height="150px" 
