@@ -69,6 +69,7 @@
 <code><img height="20" src="https://icon-library.com/images/oracle-icon/oracle-icon-22.jpg" title="Oracle"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" title="PostgreSQL"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/microsoft-sql-server.png" title="SQL Server"></code>
+<code><img height="20" src="https://img.icons8.com/color/452/microsoft-sql-server.png" title="SQLite"></code>
 <i>Bancos de dados (padrão SQL)</i>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="Android"></code>
