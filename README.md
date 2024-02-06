@@ -41,7 +41,7 @@
 <code><img height="20" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency/512/Pascal-Lite-icon.png" title="Object Pascal"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" title="Rust"></code>
-<code><img height="20" src="https://cdn.pngsumo.com/scratch-logo-png-and-scratch-logo-transparent-clipart-free-download-scratch-logo-png-260_260.jpg" title="Scratch"></code>
+<code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/Scratch.png" title="Scratch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" title="Visual Basic"></code>
 <i>Imperativas</i>
 
