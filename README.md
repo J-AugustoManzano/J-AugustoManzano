@@ -27,7 +27,7 @@
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/assembly.256x256.png" title="Assembly (Intel/AMD)"></code>
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/ADA.png" title="Ada"></code>
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/basic.jpg" title="BASIC Classic/Structured"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
+<code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/c-program-icon.png" title="C"></code>
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/Cobol%20-%20gnu%20Cobol.jpg" title="COBOL"></code>
 <code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-C-pink-icon.png" title="COMAL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
