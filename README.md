@@ -24,7 +24,7 @@
 </a>
 
 ### Linguagens de programação (algumas) e outras ferramentas conhecidas
-<code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-A-blue-icon.png" title="Assembly (Intel/AMD)"></code>
+<code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/assembly.256x256.png" title="Assembly (Intel/AMD)"></code>
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/ADA.png" title="Ada"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/326/PNG/256/Letter_B_blue_35053.png" title="BASIC Classic/Structured"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
