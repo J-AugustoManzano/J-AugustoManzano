@@ -23,7 +23,7 @@
    target="_blank">
 </a>
 
-### Lɪɴɢᴜᴀɢᴇɴꜱ ᴅᴇ ᴘʀᴏɢʀᴀᴍᴀçãᴏ (ᴀʟɢᴜᴍᴀꜱ) ᴇ ᴏᴜᴛʀᴀꜱ ꜰᴇʀʀᴀᴍᴇɴᴛᴀꜱ ᴄᴏɴʜᴇᴄɪᴅᴀꜱ
+### Lɪɴɢᴜᴀɢᴇɴꜱ ᴅᴇ ᴘʀᴏɢʀᴀᴍᴀᴄᴀᴏ (ᴀʟɢᴜᴍᴀꜱ) ᴇ ᴏᴜᴛʀᴀꜱ ꜰᴇʀʀᴀᴍᴇɴᴛᴀꜱ ᴄᴏɴʜᴇᴄɪᴅᴀꜱ
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/assembly.256x256.png" title="Assembly (Intel/AMD)"></code>
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/ADA.png" title="Ada"></code>
 <code><img height="20" src="https://github.com/J-AugustoManzano/icons/blob/main/basic.jpg" title="BASIC Classic/Structured"></code>
@@ -87,7 +87,7 @@
 <i>Interpretadores de algoritmos</i>
 
 ##
-### Eꜱᴛᴀᴛíꜱᴛɪᴄᴀꜱ ɢᴇʀᴀɪꜱ
+### Eꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ɢᴇʀᴀɪꜱ
 
 <p align="center">
   <img height="200px" 
