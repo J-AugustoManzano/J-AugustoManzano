@@ -101,3 +101,7 @@
 ##
 ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
 
+### 🐍 Contribuições em 3D
+
+![Snake animation](./profile-3d-contrib/github-contribution-grid-snake-dark.svg)
+
