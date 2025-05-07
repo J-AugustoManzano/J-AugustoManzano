@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 18 * * *"  # Executa diariamente às 18:00 UTC
-  workflow_dispatch:
+  workflow_dispatch:       # Permite execução manual
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: J-AugustoManzano
       - name: Commit & Push
         run: |
           git config user.name github-actions
