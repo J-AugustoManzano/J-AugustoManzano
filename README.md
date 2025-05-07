@@ -12,7 +12,7 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=J-AugustoManzano&row=1&column=10&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=J-AugustoManzano&row=1&column=8&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
 ##
