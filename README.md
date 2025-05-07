@@ -5,7 +5,7 @@
   
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=J-AugustoManzano&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=J-AugustoManzano&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-AugustoManzanotheme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
@@ -21,13 +21,13 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=J-AugustoManzano&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
 
 
 
-
+##
 <a href="https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano" 
    target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=plastic" 
    target="_blank">
