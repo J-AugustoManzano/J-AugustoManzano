@@ -21,7 +21,9 @@
 <div align="center" >
   <img src="https://github-profile-trophy.vercel.app/?username=J-AugustoManzano&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
-  
+
+##
+<div align="center" >
 <a href="https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano" 
    target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=plastic" 
    target="_blank">
@@ -46,6 +48,8 @@
    target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=plastic" 
    target="_blank">
 </a>
+</div>
 
+##
 ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
 
