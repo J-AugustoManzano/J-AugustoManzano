@@ -51,6 +51,4 @@
 </div>
 
 ##
-<div align="center" >
 ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
-</div>
