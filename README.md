@@ -12,15 +12,10 @@
   />
 </p>
 
-
-
-
-
 <div align="center" >
   <a href="https://skillicons.dev" >
   <img src="https://skillicons.dev/icons?i=git,apple,c,cs,cpp,css,dart,elixir,fortran,go,haskell,html,java,js,kotlin,linkedin,linux,mysql,nodejs,ocaml,perl,php,postgres,py,qt,ruby,rust,scala,swift,typescript,windowa" />
   </a>
-  <br />
 </div>
 
 ##
@@ -54,16 +49,7 @@
    target="_blank">
 </a>
 
-### Eꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ɢᴇʀᴀɪꜱ
-
-<p align="center">
-  <img height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&amp;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"
-  />
-  <img height="110px" widht="100" 
-    src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&amp;&hide=prs,issues,contribs&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" 
-  />
-</p>
-
 ##
-![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
+<div align="center" >
+  ![](https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:)
+</div>
