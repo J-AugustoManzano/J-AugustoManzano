@@ -15,7 +15,7 @@
 
 
 
-##
+
 <div align="center" >
   <a href="https://skillicons.dev" >
   <img src="https://skillicons.dev/icons?i=git,apple,c,cs,cpp,css,dart,elixir,fortran,go,haskell,html,java,js,kotlin,linkedin,linux,mysql,nodejs,ocaml,perl,php,postgres,py,qt,ruby,rust,scala,swift,typescript,windowa" />
