@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,apple,c,cs,cpp,css,dart,dotnet,elixir,fortran,go,haskell,html,java,js,kotlin,linkedin,linux,mysql,nodejs,ocaml,perl,php,postgres,py,qt,ruby,rust,scala,swift,typescript,windowa" />
   </a>
 </div>
-
+</br >
 <div align="center" >
   <img src="https://github-profile-trophy.vercel.app/?username=J-AugustoManzano&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
