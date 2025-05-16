@@ -14,7 +14,7 @@
 
 <div align="center" >
   <a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=git,linux,redhat,bsd,windows,github,apple,c,cs,cpp,css,dart,dotnet,elixir,fortran,go,haskell,html,java,julia,js,kotlin,linkedin,lua,mysql,nodejs,ocaml,perl,php,postgres,py,qt,regex,ruby,rust,scala,swift,typescript&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,linux,redhat,ubuntu,bsd,windows,github,apple,c,cs,cpp,css,dart,dotnet,elixir,fortran,go,haskell,html,java,julia,js,kotlin,linkedin,lua,mysql,sqlite,nodejs,ocaml,perl,php,postgres,py,qt,regex,ruby,rust,scala,swift,typescript,visualstudio&perline=12" />
   </a>
 </div>
 </br >
