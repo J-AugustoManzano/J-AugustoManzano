@@ -1,15 +1,17 @@
 name: github-profile-summary-cards
 
 on:
-  schedule: # Roda automaticamente a cada 24 horas
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
-
+    # ESTA PARTE ABAIXO SUBSTITUI A NECESSIDADE DE ACHAR O BOTÃO NAS SETTINGS
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -17,3 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: -3
