@@ -4,11 +4,6 @@
 | :---: | :---: |
 | ![](./profile-summary-card-output/verticall/0-github-stats.svg) | ![](./profile-summary-card-output/verticall/1-check-the-repos.svg) |
 
-<p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&layout=compact&langs_count=10&theme=merko&hide=prolog,html" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=prs,issues,contribs" />
-</p>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,redhat,ubuntu,bsd,mint,windows,replit,apple,c,cs,cpp,css,dart,dotnet,elixir,fortran,go,haskell,html,java,julia,js,kotlin,linkedin,lua,mysql,sqlite,nodejs,ocaml,perl,php,postgres,py,qt,regex,ruby,rust,scala,swift,typescript,visualstudio&perline=11" />
