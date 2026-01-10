@@ -6,7 +6,7 @@
 
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AugustoManzano&layout=compact&langs_count=10&theme=merko&hide=prolog,html" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&hide=prs,issues,contribs&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=prs,issues,contribs" />
 </p>
 
 <div align="center">
