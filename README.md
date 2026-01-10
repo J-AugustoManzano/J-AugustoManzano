@@ -1,6 +1,6 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-AugustoManzano&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-AugustoManzano&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-AugustoManzano&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 <p align="center">
