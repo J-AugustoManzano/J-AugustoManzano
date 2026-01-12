@@ -27,6 +27,12 @@
   <a href="http://lattes.cnpq.br/8184615061457853" target="_blank">
     <img src="https://img.shields.io/badge/Lattes-blue?style=plastic" />
   </a>
+
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/J-AugustoManzano?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+  
 </div>
 
 
