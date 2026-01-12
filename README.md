@@ -33,7 +33,7 @@
 
 <div align="center">
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/J-AugustoManzano?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-</div>div> 
+</div>
 <br />
 
 
