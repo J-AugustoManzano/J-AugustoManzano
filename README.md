@@ -31,6 +31,10 @@
 
 <hr />
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/J-AugustoManzano?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<br />
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=J-AugustoManzano.J-AugustoManzano&title=Visitas:"/>
 </div>
