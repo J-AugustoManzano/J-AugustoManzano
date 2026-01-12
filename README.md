@@ -32,6 +32,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/J-AugustoManzano?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![Repos I created](https://github-contrib-stats.vercel.app/J-AugustoManzano/created.svg)
+
   
 </div>
 
