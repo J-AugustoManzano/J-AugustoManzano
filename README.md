@@ -101,11 +101,12 @@ Por isso, este repositório reúne tanto implementações práticas quanto exper
 
 ## 🔗 Outros espaços
 
-- [YouTube](SEU_LINK_YOUTUBE)
-- [LinkedIn](SEU_LINK_LINKEDIN)
-- [ORCID](SEU_LINK_ORCID)
-- [ResearchGate](SEU_LINK_RESEARCHGATE)
-- [Currículo Lattes](SEU_LINK_LATTES)
+- [YouTube](https://www.youtube.com/c/JoseAugustoNavarroGarciaManzano) 
+- [LinkedIn](https://www.linkedin.com/in/augustomanzano/)
+- [ORCID](https://orcid.org/0000-0001-9248-7765)
+- [ResearchGate](https://www.researchgate.net/profile/Jose-Augusto-Manzano)
+- [Currículo Lattes](http://lattes.cnpq.br/8184615061457853)
+- [SourecForge](https://sourceforge.net/u/augustomanzano/profile)
 
 ---
 
@@ -115,8 +116,9 @@ Este perfil é mantido como um espaço público para **preservar, compartilhar e
 
 Alguns projetos têm finalidade didática; outros são experimentais ou históricos. Em conjunto, representam diferentes aspectos de uma trajetória dedicada ao ensino, à programação e à produção de conhecimento em Computação.
 
+---
 
-
+## Resumo geral
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
