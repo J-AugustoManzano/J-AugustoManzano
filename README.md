@@ -63,10 +63,6 @@ Material destinado ao estudo da programação de baixo nível e da arquitetura d
 
 ## 🔎 Projetos em destaque
 
-### ⚙️ Enigma
-
-Estudos e implementações relacionados à **máquina Enigma**, envolvendo seu funcionamento eletromecânico, criptografia e reprodução computacional.
-
 ### λ Programação funcional
 
 Projetos voltados ao estudo da programação funcional e das linguagens que contribuíram para a formação desse paradigma.
