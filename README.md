@@ -57,6 +57,7 @@ Material destinado ao estudo da programação de baixo nível e da arquitetura d
 - História da computação
 - Fundamentos matemáticos da computação
 - Educação em Computação
+- Desenvolvimento de compiladores/interpretadores
 
 ---
 
