@@ -79,21 +79,11 @@ Experimentos envolvendo Assembly, representação de dados, arquitetura de compu
 
 ## 🚧 Projetos em desenvolvimento
 
-### Programação Declarativa
+### Programação Imperativa
 
-**Programação Declarativa: Fundamentos Matemáticos e o Paradigma Funcional**
+**Interpretador PEPPE**
 
-Projeto dedicado à apresentação dos fundamentos matemáticos e conceituais necessários à compreensão da programação funcional, relacionando teoria e implementação.
-
-### Linguagem pedagógica
-
-Estudo e desenvolvimento de uma linguagem de programação de caráter **pedagógico**, inspirada na simplicidade sintática e conceitual de linguagens funcionais clássicas, particularmente **Miranda**.
-
-O objetivo é utilizar a linguagem como instrumento para o ensino dos fundamentos da programação funcional, sem a intenção de substituir ou competir com linguagens de produção.
-
-### Enigma R.D.E.
-
-Projeto educacional envolvendo o estudo, reprodução e construção de uma máquina Enigma em escala real, combinando **história da computação, engenharia, mecânica, eletrônica e programação**.
+Projeto dedicado com o desenvolvimento de uma linguagem de programação educacional em português para o livro de Algoritmos da Editora LTC.
 
 ---
 
